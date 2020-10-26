@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Semana3JParraga.MainPage">
+    <StackLayout>
+  
+        <Label Text="Nota de seguimiento 1"></Label>
+        <Entry x:Name="txtSeguimiento1" Keyboard="Numeric" Placeholder="10/10"></Entry>
+
+        <Label Text="Examen 1"></Label>
+        <Entry x:Name="txtExamen1" Keyboard="Numeric" Placeholder="10/10"></Entry>
+
+        <Label Text="Resultado"></Label>
+        <Entry x:Name="txtResultado1" IsReadOnly="True" Placeholder="5/5"></Entry>
+
+        <Button x:Name="btnSumar1"
+                Text="Nota Parcial 1"
+                Clicked="btnSumar1_Clicked"></Button>
+         <Label Text="Nota de seguimiento 2"></Label>
+        <Entry x:Name="txtSeguimiento2" Keyboard="Numeric" Placeholder="10/10"></Entry>
+
+        <Label Text="Examen 2"></Label>
+        <Entry x:Name="txtExamen2" Keyboard="Numeric" Placeholder="10/10"></Entry>
+
+        <Label Text="Resultado"></Label>
+        <Entry x:Name="txtResultado2" IsReadOnly="True" Placeholder="5/5"></Entry>
+
+        <Button x:Name="btnSumar2"
+                Text="Nota Parcial 2"
+                Clicked="btnSumar2_Clicked"></Button>
+
+         <Button x:Name="btnSumarTotal"
+                Text="Nota Final"
+                Clicked="btnSumarTotal_Clicked"></Button>
+
+    </StackLayout>
+</ContentPage>

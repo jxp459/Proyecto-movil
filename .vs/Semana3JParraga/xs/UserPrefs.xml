@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{213846AD-C674-4661-801F-818866A8F9E1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Semana3JParraga.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.Semana3JParraga.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Semana3JParraga/Login.xaml.cs">
+    <Files>
+      <File FileName="Semana3JParraga/MainPage.xaml" Line="26" Column="35" />
+      <File FileName="Semana3JParraga/MainPage.xaml.cs" />
+      <File FileName="Semana3JParraga/Login.xaml" />
+      <File FileName="Semana3JParraga/Login.xaml.cs" Line="28" Column="15" />
+      <File FileName="Semana3JParraga/App.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Semana3JParraga" expanded="True">
+            <Node name="Semana3JParraga" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="Login.xaml" expanded="True">
+                <Node name="Login.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
